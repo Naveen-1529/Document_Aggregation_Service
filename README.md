@@ -26,7 +26,7 @@ Kindly follow below instructions for setting up your project locally. To get a l
 
 - Change directory into your newly created project.
 ```
-    cd document-aggregation
+    cd document-aggregation-service
 ```
 
 - Create a Python virtual environment.
